@@ -1,0 +1,22 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "bundleAndOn": "browserify script.js > bundled.js && live-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmed-rasool/background-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmed-rasool/background-generator/issues"
+  },
+  "homepage": "https://github.com/ahmed-rasool/background-generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
